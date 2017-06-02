@@ -7,6 +7,10 @@ cache:
   directories:
     - $HOME/.gradle/caches/
     - $HOME/.gradle/wrapper/
+addons:
+  apt:
+    packages:
+      - mr
 before_install:
   - mr checkout
 notifications:

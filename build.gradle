@@ -5,3 +5,7 @@ task assemble {
 task build {
     dependsOn gradle.includedBuilds*.task(":build")
 }
+
+task check {
+    dependsOn gradle.includedBuilds*.task(":check")
+}

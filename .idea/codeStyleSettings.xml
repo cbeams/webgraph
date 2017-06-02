@@ -23,6 +23,8 @@
             <emptyLine />
             <package name="org.iokit.util" withSubpackages="true" static="false" />
             <emptyLine />
+            <package name="picocli" withSubpackages="true" static="false" />
+            <emptyLine />
             <package name="org.junit" withSubpackages="true" static="false" />
             <emptyLine />
             <package name="org.assertj.core.api" withSubpackages="true" static="false" />
@@ -38,6 +40,8 @@
             <package name="java.nio" withSubpackages="true" static="false" />
             <emptyLine />
             <package name="java.io" withSubpackages="true" static="false" />
+            <emptyLine />
+            <package name="com.google.common.collect" withSubpackages="true" static="false" />
             <emptyLine />
             <package name="com.google.common.base" withSubpackages="true" static="false" />
             <emptyLine />

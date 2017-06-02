@@ -2,3 +2,4 @@ rootProject.name = "webgraph"
 
 includeBuild "iokit"
 includeBuild "warc"
+includeBuild "warcbench"

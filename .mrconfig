@@ -4,3 +4,6 @@ checkout = git clone 'git@github.com:cbeams/iokit.git' 'iokit'
 
 [warc]
 checkout = git clone 'git@github.com:cbeams/warc.git' 'warc'
+
+[warcbench]
+checkout = git clone 'git@github.com:cbeams/warcbench.git' 'warcbench'

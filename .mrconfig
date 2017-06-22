@@ -7,6 +7,3 @@ checkout = git clone 'https://github.com/cbeams/warc.git' 'warc'
 
 [warc-cli]
 checkout = git clone 'https://github.com/cbeams/warc-cli.git' 'warc-cli'
-
-[warcbench]
-checkout = git clone 'https://github.com/cbeams/warcbench.git' 'warcbench'
